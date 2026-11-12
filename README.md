@@ -8,7 +8,7 @@ Live site: https://a2rp.github.io/typing-speed-practice/
 
 ## How to use it
 
-Choose a 30- or 60-second test and begin typing the displayed passage. The timer starts on the first keystroke. The passage highlights matching and missed characters, then shows a final score.
+Choose a 30- or 60-second test and type the displayed passage. Pasting is disabled so the result reflects timed typing. The timer starts on the first keystroke. The passage highlights matching and missed characters, then shows a final score.
 
 ## Features
 
@@ -28,7 +28,7 @@ The test uses one included passage and does not include a leaderboard or account
 
 Install Node.js, then run these commands from the project folder:
 
-    npm install
+    npm ci
     npm run dev
 
 ## Checks and deployment
